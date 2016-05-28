@@ -1,0 +1,18 @@
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.exe.config
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.exe
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.pdb
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.csprojResolveAssemblyReference.cache
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.Form1.resources
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.Properties.Resources.resources
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.csproj.GenerateResource.Cache
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.exe
+F:\Programming projects\DVP3 Lucas\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.pdb
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.exe.config
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.exe
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.pdb
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.exe
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\bin\Debug\ContactListDVP3.pdb
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.csprojResolveAssemblyReference.cache
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.Form1.resources
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.Properties.Resources.resources
+C:\Programming Projects\DVP3\ContactListDVP3\ContactListDVP3\obj\Debug\ContactListDVP3.csproj.GenerateResource.Cache

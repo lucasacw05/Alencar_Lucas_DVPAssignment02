@@ -1,0 +1,9 @@
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\bin\Debug\AlencarLucas_GroceryList.exe.config
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\bin\Debug\AlencarLucas_GroceryList.exe
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\bin\Debug\AlencarLucas_GroceryList.pdb
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.csprojResolveAssemblyReference.cache
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.Form1.resources
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.Properties.Resources.resources
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.csproj.GenerateResource.Cache
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.exe
+F:\Programming projects\DVP3 Lucas\AlencarLucas_GroceryList\AlencarLucas_GroceryList\obj\Debug\AlencarLucas_GroceryList.pdb
